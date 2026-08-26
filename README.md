@@ -16,3 +16,9 @@ time storing that input into a varible so we can use as a variable
  an operation and store the result in another variable and for the
  last part we convert back the integer into a string to print the result
  concatenated with more text
+
+ When we declare a string like course = "Math" then that will be an object ("Math")
+ this will have a lot of capabilities, we can have access to all the
+ "capabilities using course. and that is going to show all the methods
+
+ 
