@@ -21,4 +21,4 @@ time storing that input into a varible so we can use as a variable
  this will have a lot of capabilities, we can have access to all the
  "capabilities using course. and that is going to show all the methods
 
- 
+ Using the in operator to find any word on a string
