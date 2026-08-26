@@ -10,3 +10,9 @@ and boleans
 Also here practicing how to recerive user inputs and at the same 
 time storing that input into a varible so we can use as a variable
  to not require the same input for the user.
+
+ We learn how to receive an integer (it is really a string) from the user and store it
+ on a variable, then convert that string into an integer to do
+ an operation and store the result in another variable and for the
+ last part we convert back the integer into a string to print the result
+ concatenated with more text
