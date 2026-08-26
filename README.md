@@ -22,3 +22,14 @@ time storing that input into a varible so we can use as a variable
  "capabilities using course. and that is going to show all the methods
 
  Using the in operator to find any word on a string
+
+ # Arithmetic Operators
+
+ For all operators we have an augmented assignment operator
+ this help to make the code easier to read like += or -= and many more
+
+ There is also operator precedence like regular math, we can use parenthesis to do it "first"
+
+ On python we also have comparisson operators, like x = 3 > 2, this will be
+ a boolean expression
+
